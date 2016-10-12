@@ -1,5 +1,7 @@
-# Cours_SILEX_4_Biz
+# Développer des applications business en PHP avec le framework SILEX 
+
 Support de cours sur le framework SILEX, téléchargeable gratuitement au format PDF.
+Version du cours : 1.4 du 2 octobre 2016.
 
 Ce support de cours est publié sous la Licence Creative Commons n° 6 : BY SA
 Pour de plus amples informations sur les termes de cette licence, prière de vous reporter au site officiel Creative Commons : 
