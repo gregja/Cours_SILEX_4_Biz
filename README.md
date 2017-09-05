@@ -1,7 +1,7 @@
 # Développer des applications business en PHP avec le framework SILEX 
 
 Support de cours sur le framework SILEX, téléchargeable gratuitement au format PDF.
-Version du cours : 1.4 du 2 octobre 2016.
+Version du cours : 1.5 du 5 septembre 2017.
 
 Ce support de cours est publié sous la Licence Creative Commons n° 6 : BY SA
 Pour de plus amples informations sur les termes de cette licence, prière de vous reporter au site officiel Creative Commons : 
@@ -13,9 +13,6 @@ Tous les codes sources qui sont proposés dans ce support, et qui ne font pas pa
 
 Le code source relatif au projet développé dans le cadre de ce support est disponible sur Github :
 https://github.com/gregja/firstsilex
-
-Blog de l’auteur :
-http://gregphplab.com
 
 Tweet de l’auteur :
 https://twitter.com/greg_devlab
